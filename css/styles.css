@@ -251,6 +251,7 @@
   display: flex;
   justify-content: center;
   gap: 24px;
+  list-style: none;
 }
 
 .instagram {
