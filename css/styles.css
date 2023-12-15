@@ -381,6 +381,12 @@
 
 .fifth-section-list-element-href:hover {
   border-color: #404bbf;
+  color: #404bbf;
+}
+
+.fifth-section-list-element-href:focus {
+  border-color: #404bbf;
+  color: #404bbf;
 }
 /* Portfolio */
 
