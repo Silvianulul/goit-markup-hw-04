@@ -386,6 +386,10 @@
 .fifth-section-list-element-href :focus {
   border-color: #404bbf;
 }
+
+.fifth-section-svg {
+  fill: currentColor;
+}
 /* Portfolio */
 
 .portfolio-header {
