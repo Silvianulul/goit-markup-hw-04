@@ -344,6 +344,44 @@
   text-transform: uppercase;
 }
 
+/* Section5 */
+.fifth-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.fifth-section-title {
+  font-size: 36px;
+  line-height: 1.11;
+  color: #2e2f42;
+  margin-bottom: 72px;
+}
+
+.fifth-section-list {
+  display: flex;
+  gap: 24px;
+  height: 88px;
+  list-style: none;
+}
+
+.fifth-section-list-element {
+  width: calc((100% - 120px) / 6);
+}
+
+.fifth-section-list-element-href {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #8e8f99;
+}
+
+.fifth-section-list-element-href:hover {
+  border-color: #404bbf;
+}
 /* Portfolio */
 
 .portfolio-header {
