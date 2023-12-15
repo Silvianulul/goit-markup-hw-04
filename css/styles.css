@@ -330,6 +330,43 @@
   max-width: 264px;
 }
 
+.social-media-paragraph {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffffff;
+  margin-bottom: 16px;
+}
+
+.footer-list {
+  display: flex;
+  gap: 16px;
+  list-style: none;
+}
+
+.footer-list-element {
+  width: 40px;
+  height: 40px;
+}
+
+.footer-list-href {
+  width: 100%;
+  height: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-list-href:hover {
+  background-color: #31d0aa;
+}
+
+.footer-list-href:focus {
+  background-color: #31d0aa;
+}
 .web-footer {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
