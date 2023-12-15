@@ -414,7 +414,7 @@
 }
 
 .fifth-section-list-element {
-  width: calc((100% - 120px) / 6);
+  width: calc((100%-120px) / 6);
 }
 
 .fifth-section-list-element-href {
@@ -430,10 +430,12 @@
 
 .fifth-section-list-element-href:hover {
   border-color: #404bbf;
+  color: #404bbf;
 }
 
 .fifth-section-list-element-href:focus {
   border-color: #404bbf;
+  color: #404bbf;
 }
 
 .fifth-section-svg {
