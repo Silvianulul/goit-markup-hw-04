@@ -379,12 +379,12 @@
   color: #8e8f99;
 }
 
-.fifth-section-list-element-href:hover {
+.fifth-section-list-element-href :hover {
   border-color: #404bbf;
   color: #404bbf;
 }
 
-.fifth-section-list-element-href:focus {
+.fifth-section-list-element-href :focus {
   border-color: #404bbf;
   color: #404bbf;
 }
