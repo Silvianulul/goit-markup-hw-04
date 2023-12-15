@@ -264,8 +264,11 @@
   align-items: center;
 }
 
-.team-socials-href :hover,
-:focus {
+.team-socials-href:hover {
+  background-color: #404bbf;
+}
+
+.team .team-socials-href:focus {
   background-color: #404bbf;
 }
 .fourth-section-title {
