@@ -23,6 +23,10 @@
   padding: 0 15px;
 }
 
+.container-first-section {
+  display: flex;
+  flex-direction: column;
+}
 .header-nav {
   display: flex;
   align-items: center;
@@ -121,6 +125,8 @@
   text-align: center;
   letter-spacing: 0.02em;
   max-width: 496px;
+  display: flex;
+  align-self: center;
 }
 
 .first-section-button {
@@ -138,6 +144,7 @@
   background-color: #4d5ae5;
   border-radius: 4px;
   cursor: pointer;
+  align-self: center;
 }
 
 .first-section-button:hover {
