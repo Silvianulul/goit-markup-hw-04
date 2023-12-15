@@ -1,6 +1,7 @@
 /* Studio */
 :root {
   --maincolor: 434455;
+  --white: #f4f4f4fd;
 }
 
 .img {
@@ -369,7 +370,7 @@
 }
 
 .svg-footer {
-  fill: #f4f4f4fd;
+  fill: var(--white);
 }
 .web-footer {
   font-family: "Raleway", sans-serif;
