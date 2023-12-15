@@ -250,7 +250,7 @@
   gap: 24px;
 }
 
-.team-socials-person {
+.instagram {
   width: 40px;
   height: 40px;
 }
@@ -263,6 +263,11 @@
   display: flex;
   align-items: center;
   align-items: center;
+}
+
+.team-socials-href :hover,
+:focus {
+  background-color: #404bbf;
 }
 .fourth-section-title {
   color: #2e2f42;
