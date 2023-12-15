@@ -316,6 +316,10 @@
   display: flex;
   align-items: baseline;
 }
+
+.div-logo-paragraph {
+  margin-right: 120px;
+}
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
