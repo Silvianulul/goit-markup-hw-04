@@ -244,6 +244,9 @@
   padding: 120px 0;
 }
 
+.svg-social {
+  background-color: #404bbf;
+}
 .team-socials {
   display: flex;
   justify-content: center;
@@ -268,7 +271,7 @@
   background-color: #404bbf;
 }
 
-.team .team-socials-href:focus {
+.team-socials-href:focus {
   background-color: #404bbf;
 }
 .fourth-section-title {
