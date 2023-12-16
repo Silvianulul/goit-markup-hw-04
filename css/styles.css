@@ -271,11 +271,12 @@
   height: 40px;
 }
 
-.team-socials-href:hover,
-.team-socials-href:focus {
+.team-socials-href:hover {
   background-color: #404bbf;
 }
-
+team-socials-href:focus {
+  background-color: #404bbf;
+}
 .fourth-section-title {
   color: #2e2f42;
   font-size: 36px;
