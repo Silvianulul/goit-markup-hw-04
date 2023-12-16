@@ -271,9 +271,7 @@
   height: 40px;
 }
 
-.team-socials-href:hover {
-  background-color: #404bbf;
-}
+.team-socials-href:hover,
 .team-socials-href:focus {
   background-color: #404bbf;
 }
