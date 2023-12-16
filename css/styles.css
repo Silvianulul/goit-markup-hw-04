@@ -360,10 +360,7 @@ team-socials-href:focus {
   justify-content: center;
 }
 
-.footer-list-href:hover {
-  background-color: #31d0aa;
-}
-
+.footer-list-href:hover,
 .footer-list-href:focus {
   background-color: #31d0aa;
 }
