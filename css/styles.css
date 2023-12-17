@@ -340,6 +340,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffffff;
+  margin-left: 40px;
 }
 
 .footer-list {
@@ -405,6 +406,7 @@
   color: #2e2f42;
   margin: 0;
   margin-bottom: 72px;
+  text-align: center;
 }
 
 .fifth-section-list {
