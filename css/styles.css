@@ -412,7 +412,7 @@
 }
 
 .fifth-section-list-element {
-  width: calc((100%-120px) / 6);
+  width: calc((100% - 120px) / 6);
 }
 
 .fifth-section-list-element-href {
