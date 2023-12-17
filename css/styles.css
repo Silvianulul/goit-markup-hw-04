@@ -253,8 +253,10 @@
 .team-socials {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 24px;
   list-style: none;
+  width: 183px;
 }
 
 .social-list {
