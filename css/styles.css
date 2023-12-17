@@ -4,10 +4,6 @@
   --white: #f4f4f4fd;
 }
 
-h2 {
-  margin: 0;
-}
-
 .img {
   display: block;
 }
@@ -403,6 +399,7 @@ h2 {
   font-size: 36px;
   line-height: 1.11;
   color: #2e2f42;
+  margin: 0;
   margin-bottom: 72px;
 }
 
