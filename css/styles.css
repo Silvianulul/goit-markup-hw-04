@@ -16,6 +16,7 @@
 
 .header-div {
   display: flex;
+  justify-content: space-between;
 }
 
 .container {
@@ -285,7 +286,6 @@
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  background-color: #ffffffff;
   margin-bottom: 72px;
 }
 
